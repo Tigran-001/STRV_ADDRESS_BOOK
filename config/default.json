@@ -1,0 +1,14 @@
+{
+    "jwtPrivateKey": "AddressBook_jwtPrivateKey",
+    "type": "service_account",
+    "project_id": "address-book-95328",
+    "private_key_id": "821bcdd7bf1da3351538fdb750333db604a51404",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtaKx4n+OmHPW8\nAz9u5gbk3ZGGYOUUnXgViFulcmPnxHQ3bvr/8V/jtrFNcwjbomGh05Ov9skYrM+H\ngvqZ0KHmWh/fSKKyAKe1PY73ltRnqTbej98dUVUxkrwslsu39Uxr8ad/OegXDNUT\n6JRJNu2QlN2RBTZH6y/ls5Sj+35tjbwrfWHwGanohMHUEG4WFV3l4S2+t2uwX/m/\nQp1WMum0v52QkD68DJc84PpI4mqRM3OYyW8tGrK7dfyFjPA8heZrfvC7cPByJ+G6\n4221Mbtv+L8RR2dDs3H8/tbrDG10ptJp1wMvXKMDNAIAuk6kYrgEtX2wDwhR0W5m\nuLGg/1hlAgMBAAECggEAAQ+f5okL6otI0aKvc61Co4nbhxf2rt6byn3wGZ4OkG96\nSpCKRqCidpE6mn+2sSlYMZZK1AvNhTIhfvHFOMW3B+LLSSF3pWEtpYU/57HrkMrP\nRCNbOSGzRL9iGV++1VxR4GM1JCkli2aPszR8G8qTP4w5otaGU4BT5bLomOxEBMWT\nqFPffqT3GD7jXwJwxcai/pR9tyjWstepT9iyaAmRAHn39pjB4sDq7wJ6RMdakyFb\ng00rLP+b7ofrQaSLscwEiyB3lEHsImLcxBMOUoQXCCYj1xtBCYEfy/yi1j79gTDw\nNyJg4LNT1ODuLs6jPSX3mTOC2oyV0oOoj1kC4FF7AQKBgQDiupY54Zv2NdvUMYOq\nQGHTKWrOzKBx3RcHy7Pk6PVo+h4LW/VjM7AnIBkxTNq9Cdm8rs/FrWvymYzz+WWJ\nZ8BWPO/VauOsRiUWUigjx+XgD9OGZ3y11ME/wt+Llzv+hdqkv2ATnixzfbX5qbAB\nSLbpE6ONAs3ECSX7mrvcO5WUwQKBgQDDy9sj5VbtBQZhQFsby90vTljQzfxA5ErD\nBhDLHC4n9qjzhTjfrOAmGppH3P083E0smRnqgl+iCb8I08gQbYiykDpi/eClppYr\nNcXjasx2/lwhhfsewTJ7kpWC8Zw+TFwyugutH2vbHtx6JLiOnKgjve2EHA6YfVmv\ncPg4xtx4pQKBgHuJiSM+n5k23XGwDPquG99PuOe3LVD9U3gm8P0wRc+OQOKVl44W\n8stOvQtUwfawsFgTtBgUlzXXnqqs4DtPMciLaW6S0Dzk935DA6YDXGiKlwmrx5LX\nuvg/+Uf4/nJ/gpOzxujJjZTcEVRYthLtCOTUk4/Y0D8ZcP234NZuDOHBAoGAJfyo\nIJe/PK8L5NRimMr9t87ghmpgdYqVQq8rlOx7u/8sGksPlL3qoxnoMucaLrOjOXLe\nx1PSEBMKAEFugFlv+wzmdwxAiIMAgZOmOBAhaTjCUTK4XOgozjbLUSNlJ+USwji8\nSTNebp3XMs9rCygzqvOPYGE9J7KyMsqdLg7O+Y0CgYBtTtIMgHyaCU90dpIwCF3k\nkd+lRp63fYVGeGxVxP0P5Utkmm05ymw4jMluVq5zhmVmCbDUIf0iHSeV4evActm4\nU9qki8mkGLvwJy4qA7tHiFW/ctEtYh21AYmRt2pqyJ4i81XmejXpVn93qHTPd8Xg\nYszx+n7BwW7GAOhl8H9kkg==\n-----END PRIVATE KEY-----\n",
+    "client_email": "strv-address-book@address-book-95328.iam.gserviceaccount.com",
+    "client_id": "116222389148451543253",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/strv-address-book%40address-book-95328.iam.gserviceaccount.com"
+
+}
